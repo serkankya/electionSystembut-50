@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "secimUygulamasi(ElectionApp)", "secimUygulamasi(ElectionApp)\secimUygulamasi(ElectionApp).csproj", "{4F31E773-5F73-4F2A-AAB6-4C6D2191ADFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F31E773-5F73-4F2A-AAB6-4C6D2191ADFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F31E773-5F73-4F2A-AAB6-4C6D2191ADFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F31E773-5F73-4F2A-AAB6-4C6D2191ADFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F31E773-5F73-4F2A-AAB6-4C6D2191ADFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59B5F4DF-A9EA-4CDD-A63D-C4D6A46362DF}
+	EndGlobalSection
+EndGlobal
